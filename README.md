@@ -8,28 +8,38 @@ their existing issues with deployment and development.
 Project Title: ABC Company Online E-Commerce Application
 
 ## All Microservices implemented in the Application: 
+
+
 Auth 
-• Sign In
-• Sign Up 
-• Log out 
+- Sign In
+- Sign Up 
+- Log out 
+
+
 User
-• Create User
-• Update User
-• Delete User
-• Get User
-• Get All Users
+- Create User
+- Update User
+- Delete User
+- Get User
+- Get All Users
+
+
 Product 
-• Create Product
-• Update Product 
-• Delete Product 
-• Get Product 
-• Get All Products
+- Create Product
+- Update Product 
+- Delete Product 
+- Get Product 
+- Get All Products
+
+
 Order 
-• Create Order
-• Update Order 
-• Delete Order 
-• Get Order 
-• Get All Orders 
+- Create Order
+- Update Order 
+- Delete Order 
+- Get Order 
+- Get All Orders 
+
+
 Cart
 - Create Cart
 - Update Cart 
