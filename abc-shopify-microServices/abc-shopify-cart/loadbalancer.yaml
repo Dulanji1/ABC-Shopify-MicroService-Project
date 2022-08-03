@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: cart-ctseapp-loadbalancer
+spec:
+  type: LoadBalancer
+  selector:
+    app: cart-ctseapp-k8
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 5000

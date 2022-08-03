@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cart-ctseapp-deployment
+  namespace: default
+  labels:
+    app: cart-ctseapp-k8
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cart-ctseapp-k8
+  template:
+    metadata:
+      labels:
+        app: cart-ctseapp-k8
+    spec:
+      containers:
+        - name: cart-ctseapp-k8
+          image: nithyayamasinghe/abc-shopify-cart:latest
+          ports:
+            - containerPort: 5000
+          env:
+            - name: MONGO_URL
+              valueFrom:
+                secretKeyRef:
+                  name: cart-ctseapp-secrets
+                  key: MONGO_URL

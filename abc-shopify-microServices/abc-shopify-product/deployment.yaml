@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: product-ctseapp-deployment
+  namespace: default
+  labels:
+    app: product-ctseapp-k8
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: product-ctseapp-k8
+  template:
+    metadata:
+      labels:
+        app: product-ctseapp-k8
+    spec:
+      containers:
+        - name: product-ctseapp-k8
+          image: nithyayamasinghe/abc-shopify-product:latest
+          ports:
+            - containerPort: 5000
+          env:
+            - name: MONGO_URL
+              valueFrom:
+                secretKeyRef:
+                  name: product-ctseapp-secrets
+                  key: MONGO_URL

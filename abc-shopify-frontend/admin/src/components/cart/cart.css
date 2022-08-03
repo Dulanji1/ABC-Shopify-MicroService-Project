@@ -1,0 +1,138 @@
+.cart {
+    flex: 4;
+    padding: 20px;
+  }
+
+  .cartList{
+    flex: 4;
+}
+  
+  .cartTitleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .cartAddButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: teal;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .cartTop {
+    display: flex;
+  }
+  
+  .cartTopLeft,
+  .cartTopRight {
+    flex: 1;
+  }
+  
+  .cartTopRight {
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  }
+  
+  .cartInfoImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .cartInfoTop {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cartName {
+    font-weight: 600;
+  }
+  
+  .cartInfoBottom {
+    margin-top: 10px;
+  }
+  
+  .cartInfoItem {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .cartInfoValue {
+    font-weight: 300;
+  }
+  
+  .cartBottom {
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  }
+
+  .cartList{
+    flex: 4;
+  }
+  
+  .cartForm {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .cartFormLeft {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cartFormLeft > label {
+    margin-bottom: 10px;
+    color: gray;
+  }
+  
+  .cartFormLeft > input {
+    margin-bottom: 10px;
+    border: none;
+    padding: 5px;
+    border-bottom: 1px solid gray;
+  }
+  
+  .cartFormLeft >select{
+    margin-bottom: 10px;
+  }
+  
+  .cartUploadImg{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .cartFormRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .cartUpload{
+    display: flex;
+    align-items: center;
+  }
+  
+  .cartButton{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color:white;
+    font-weight: 600;
+    cursor: pointer;
+  }
