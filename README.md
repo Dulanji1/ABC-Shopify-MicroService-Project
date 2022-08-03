@@ -5,7 +5,10 @@ their existing architecture. Major issue is the deployment time taken for monoli
 impacting other functionalities to non-available during the deployment. As a decision made by the 
 leadership, it has decided to rewrite the system using modern technologies and architecture which solves 
 their existing issues with deployment and development.
-Project Title: ABC Company Online E-Commerce Application
+
+
+
+## Project Title: ABC Company Online E-Commerce Application
 
 ## All Microservices implemented in the Application: 
 
