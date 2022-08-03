@@ -68,5 +68,5 @@ Cart
 ## Web App Screenshots
 
 
-<img width="250" hight="350" alt=" " src="/resources/Picture21.png">
+<img width="600" hight="500" alt=" " src="/resources/Picture21.png">
 
