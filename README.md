@@ -55,4 +55,18 @@ Cart
 ## Overall System Architecture Component Diagram
 
 
-<img src="https://miro.medium.com/max/1024/0*FfkEeNNoUKtzywCP.jpg">
+<img width="250" hight="350" alt=" " src="/resources/Picture6.jpg">
+
+
+
+## Screenshots
+
+
+<img width="250" hight="350" alt=" " src="/resources/0.png">
+
+
+## Web App Screenshots
+
+
+<img width="250" hight="350" alt=" " src="/resources/Picture21.png">
+
