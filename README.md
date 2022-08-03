@@ -55,7 +55,7 @@ Cart
 ## Overall System Architecture Component Diagram
 
 
-<img width="500" hight="400" alt=" " src="/resources/Picture6.jpg">
+<img width="600" hight="500" alt=" " src="/resources/Picture6.jpg">
 
 
 
