@@ -62,37 +62,36 @@ Cart
 ##  Docker Image in Docker Hub
 
 
-<img width="250" hight="350" alt=" " src="/resources/Picture7.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture8.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture9.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture10.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture11.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture12.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture13.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture14.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture15.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture16.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture17.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture7.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture8.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture9.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture10.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture11.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture12.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture13.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture14.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture15.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture16.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture17.png">
 
 
 
 ##  Screenshot of Successful CI/CD Pipeline Run 
 
 
-<img width="250" hight="350" alt=" " src="/resources/Picture18.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture19.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture20.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture18.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture19.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture20.png">
 
 
 
 
 ##   Mongo DB Database
 
-
-<img width="250" hight="350" alt=" " src="/resources/Picture46.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture47.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture48.png">
-<img width="250" hight="350" alt=" " src="/resources/Picture49.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture46.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture47.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture48.png">
+<img width="600" hight="550" alt=" " src="/resources/Picture49.png">
 
 
 
